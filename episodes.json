@@ -1,0 +1,2433 @@
+[
+ {
+  "id": "ep01",
+  "title": "Episode 1: The Assassins Who Weren't",
+  "minutes": 22.8,
+  "audio": "audio/ep01.mp3",
+  "chapters": [
+   [
+    57.9,
+    "Welcome"
+   ],
+   [
+    110.4,
+    "The Garden Nobody Saw"
+   ],
+   [
+    221.9,
+    "A Rock in the Alborz"
+   ],
+   [
+    438.7,
+    "The Daggers, Honestly"
+   ],
+   [
+    637.3,
+    "How an Insult Became a Word"
+   ],
+   [
+    854.8,
+    "The Eagle Returns"
+   ],
+   [
+    1078.9,
+    "Still Here"
+   ]
+  ],
+  "summary": "Everyone has heard of the Assassins: drugged young men, a secret garden of paradise, and a sinister Old Man of the Mountain. Yusuf and Reem set Marco Polo's famous story against what the Ismaili community's own institutions actually publish. They cover the 1094 succession split in Cairo, Hasan-i Sabbah and the mountain fortress of Alamut, and the fidais treated honestly — the Nizaris did carry out targeted political killings, and the sources that say so also show how far the reputation outran the reality. They meet Rashid al-Din Sinan, the Syrian leader who talked Saladin into a truce and then had his title stolen by legend, and trace how a medieval insult became the English word \"assassin\". Then come the Mongols, Juwayni's claim that the community had been wiped out, the evidence that it hadn't, two centuries of quiet survival, and the line of Imams that runs down to Aga Khan V today.",
+  "sources": [
+   {
+    "title": "Introduction to The Assassin Legends (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/introduction-to-the-assassin-legends/"
+   },
+   {
+    "title": "Introduction to The Assassin Legends, full chapter PDF (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "Assassin (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/assassin/"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "Ismailis",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismailis/"
+   },
+   {
+    "title": "Ismailis, in Medieval Islamic Civilization: An Encyclopedia (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "Hasan Sabbah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/hasan-sabbah/"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "Alamut",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/alamut/"
+   },
+   {
+    "title": "Glossary: Alamut",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/alamut/"
+   },
+   {
+    "title": "Ismaili Historiography",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-historiography/"
+   },
+   {
+    "title": "Hasan Sabbah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/hasan-sabbah/"
+   },
+   {
+    "title": "Assassin (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/assassin/"
+   },
+   {
+    "title": "Introduction to The Assassin Legends (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/introduction-to-the-assassin-legends/"
+   },
+   {
+    "title": "Nizari Ismaili Monuments",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismaili-monuments/"
+   },
+   {
+    "title": "The Ismailis and their Role in the History of Medieval Syria and the Near East",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-ismailis-and-their-role-in-the-history-of-medieval-syria-and-the-near-east/"
+   },
+   {
+    "title": "Sinan, Rashid al-Din (d. 1193)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/sinan-rashid-al-din-d-1193/"
+   },
+   {
+    "title": "Assassin (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/assassin/"
+   },
+   {
+    "title": "Introduction to The Assassin Legends, full chapter PDF (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "The Ismailis in History (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismaili Historiography, chapter PDF (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismaili-historiography.pdf"
+   },
+   {
+    "title": "Glossary: taqiyya",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/taqiyya/"
+   },
+   {
+    "title": "The Eagle Returns: Evidence of Continued Ismaili Activity at Alamut and in the South Caspian Region following the Mongol Conquests (Shafique N. Virani)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-eagle-returns-evidence-of-continued-ismaili-activity-at-alamut-and-in-the-south-caspian-region-following-the-mongol-conquests/"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "Gerdkuh",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/gerdkuh/"
+   },
+   {
+    "title": "The Fatimid Legacy and the Foundation of the Modern Nizari Ismaili Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-fatimid-legacy-and-the-foundation-of-the-modern-nizari-ismaili-imamate/"
+   },
+   {
+    "title": "Anjudan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/anjudan/"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography and Beliefs, journal PDF (Daryoush Mohammad Poor)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2023/03/Nizari-Ismailis-from-Illinois-Geographer-Vol-65-Fall-Spring-2023-No1-2.pdf"
+   },
+   {
+    "title": "Mawlana Hasan Ali Shah, our 46th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-hasan-ali-shah-our-46th-imam"
+   },
+   {
+    "title": "Glossary: Aga Khan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/aga-khan/"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "Mawlana Shah Karim, our 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-49th-imam"
+   },
+   {
+    "title": "Our Founder",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are/our-founder"
+   },
+   {
+    "title": "His Highness Prince Karim Aga Khan IV, 1936-2025",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/spotlights/his-highness-prince-karim-aga-khan-iv-19362025"
+   },
+   {
+    "title": "How does the Ismaili Imam designate his successor?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/how-does-the-ismaili-imam-designate-his-successor"
+   },
+   {
+    "title": "50th Imam Declared: Mawlana Hazar Imam Shah Rahim al-Hussaini Aga Khan V",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/50th-imam-declared-mawlana-hazar-imam-shah-rahim-al-hussaini-aga-khan"
+   },
+   {
+    "title": "His Highness Prince Rahim Aga Khan V",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are/our-chair"
+   },
+   {
+    "title": "His Highness the Aga Khan",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/about/his-highness-the-aga-khan"
+   },
+   {
+    "title": "His Highness the Aga Khan and Houston Mayor John Whitmire open Ismaili Center, Houston",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/news-release/his-highness-the-aga-khan-and-houston-mayor-john-whitmire-open-ismaili-center"
+   },
+   {
+    "title": "Alamut on UNESCO World Heritage List",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/news/2026/august/alamut-on-unesco-world-heritage-list/"
+   }
+  ]
+ },
+ {
+  "id": "ep02",
+  "title": "Episode 2: Where It All Began",
+  "minutes": 22.3,
+  "audio": "audio/ep02.mp3",
+  "chapters": [
+   [
+    61.6,
+    "Welcome"
+   ],
+   [
+    116.3,
+    "The Pool Between Two Cities"
+   ],
+   [
+    290.1,
+    "The Party of Ali"
+   ],
+   [
+    457.4,
+    "The Tenth of Muharram"
+   ],
+   [
+    605.6,
+    "The Imams Who Taught"
+   ],
+   [
+    847.4,
+    "Ismail, or Musa"
+   ],
+   [
+    1027.8,
+    "A Town Called Salamiyya"
+   ],
+   [
+    1214.0,
+    "Where That Leaves Us"
+   ]
+  ],
+  "summary": "The prequel. When the Prophet Muhammad died in 632, Muslims answered the question of who should guide the community in two different ways, and Yusuf and Reem start at the pond of Ghadir Khumm, where a single word — mawla — is read one way by Shia Muslims and another by everyone else. From there: Imam Ali and the party that formed around him, Hasan's treaty and the Ismaili view of his role, the killing of Husayn at Karbala and what it meant, and the quiet generations of teaching Imams — Zayn al-Abidin, Muhammad al-Baqir with his doctrine of nass, and Ja'far al-Sadiq — whose Imamate held no political power at all. Then the dispute of 765 over Ismail and Musa al-Kazim, how the Ismailis got a name they rarely used for themselves, and the long period of concealment that ends in a Syrian town called Salamiyya, from which a hidden Imam ran one of the most effective missions of the age. Along the way the hosts are honest about what the community's own institutions do not publish, which turns out to be a story in itself.",
+  "sources": [
+   {
+    "title": "Introduction to The Assassin Legends",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "Ghadir Khumm (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ghadir-khumm/"
+   },
+   {
+    "title": "Glossary: mawla",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/mawla/"
+   },
+   {
+    "title": "Glossary: ahl al-bayt",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ahl-al-bayt/"
+   },
+   {
+    "title": "Shia and Sunni: Understanding different Muslim interpretations",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/shia-and-sunni-understanding-different-muslim-interpretations"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/diversity-in-islam_daf_logo-209079385.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "Imam al-Baqir and the Doctrine of Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/shii-thought_imam_al_baqir.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Imam al-Baqir and the Doctrine of Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/shii-thought_imam_al_baqir.pdf"
+   },
+   {
+    "title": "Imam al-Baqir and the Doctrine of Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/shii-thought_imam_al_baqir.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "Ismailis (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ismailis/"
+   },
+   {
+    "title": "Glossary: taqiyya",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/taqiyya/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismailis (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ismailis/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/diversity-in-islam_daf_logo-209079385.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography and Beliefs (Daryoush Mohammad Poor)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2023/03/Nizari-Ismailis-from-Illinois-Geographer-Vol-65-Fall-Spring-2023-No1-2.pdf"
+   },
+   {
+    "title": "Shia and Sunni: Understanding different Muslim interpretations",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/shia-and-sunni-understanding-different-muslim-interpretations"
+   },
+   {
+    "title": "Glossary: Ithna'asharis",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ithnaasharis/"
+   },
+   {
+    "title": "Glossary: Shi'a/Shi'ite",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/shia-shiite/"
+   },
+   {
+    "title": "What is Shi'a Islam? by Farhad Daftary and Azim Nanji",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/what-is-shia-islam/"
+   },
+   {
+    "title": "dawr al-satr (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/dawr-al-satr/"
+   },
+   {
+    "title": "Glossary: sitr/satr",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/sitr-satr/"
+   },
+   {
+    "title": "Glossary: da'i",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/da%CA%BFi/"
+   },
+   {
+    "title": "Glossary: da'wa",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/da%CA%BFwa/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/diversity-in-islam_daf_logo-209079385.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "Ismaili Community",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/ismaili-community/"
+   },
+   {
+    "title": "Fatimids (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/fatimids/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ep03",
+  "title": "Episode 3: The Caliphs of Cairo",
+  "minutes": 22.4,
+  "audio": "audio/ep03.mp3",
+  "chapters": [
+   [
+    55.5,
+    "Welcome"
+   ],
+   [
+    125.5,
+    "The Mission Before the State"
+   ],
+   [
+    275.4,
+    "A Dynasty Looking For a Capital"
+   ],
+   [
+    420.4,
+    "Three Rooms in Cairo"
+   ],
+   [
+    647.7,
+    "The Puzzle of al-Hakim"
+   ],
+   [
+    930.2,
+    "The Longest Reign"
+   ],
+   [
+    1149.1,
+    "What Cairo Left Behind"
+   ]
+  ],
+  "summary": "For two and a half centuries the Ismaili Imams were also caliphs, and they ruled from a city they built themselves. Yusuf and Reem follow the mission that made it possible, the rescue at Sijilmasa that brought the first Fatimid caliph out of concealment in nine oh nine, and the run of new capitals that ends with al-Muizz carrying his three dead predecessors across North Africa into Cairo. They look at the three very different classrooms of Fatimid Cairo — al-Azhar, open to everyone including women, the sessions of wisdom inside the palace, and the Dar al-Ilm with its four hundred thousand manuscripts — before turning to al-Hakim, the ruler who came to the throne at eleven, who has attracted more lurid legend than anyone else in the dynasty, and who rode into the hills one night in ten twenty-one and was never seen again. The episode ends with the long reign of al-Mustansir, the viziers of the sword, the split of ten ninety-four, and the very quiet end of the caliphate under Saladin in eleven seventy-one.",
+  "sources": [
+   {
+    "title": "dawr al-satr (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/dawr-al-satr/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/diversity-in-islam_daf_logo-209079385.pdf"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "Ismaili Community",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/ismaili-community/"
+   },
+   {
+    "title": "Glossary: da'i",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/da%CA%BFi/"
+   },
+   {
+    "title": "Glossary: da'wa",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/da%CA%BFwa/"
+   },
+   {
+    "title": "Fatimids (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/fatimids/"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "Documents of History, Symbols of Authority: The Coinage of the Fatimids",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/fatimid_coinage-1258733714.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Fatimid Art, Precursor or Culmination",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/fatimid-art-precursor-or-culmination/"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "Al-Nu'man, Al-Qadi (d. 363 AH / 974 CE)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/al-numan-al-qadi-d-363-ah-974-ce/"
+   },
+   {
+    "title": "Ismaili Jurisprudence",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-jurisprudence/"
+   },
+   {
+    "title": "Glossary: ta'wil",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ta%CA%BEwil/"
+   },
+   {
+    "title": "Isma'ilism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/nanji_ismailism-734160056.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismaili Community",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/ismaili-community/"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history (PDF)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/the-ismaili-imamat-brief-history.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/diversity-in-islam_daf_logo-209079385.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/"
+   },
+   {
+    "title": "Fatimids (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/fatimids/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The Druzes, from Ismaili Esotericism to the Formation of a Doctrinal School of Law",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://iis.ac.uk/learning-centre/multimedia/the-druzes-from-ismaili-esotericism-to-the-formation-of-a-doctrinal-school-of-law"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The Ismaili da'wa Outside the Fatimid dawla",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-ismaili-dawa-outside-the-fatimid-dawla/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Imamate in Ismailism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "Modern Ismaili Communities",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/modern-ismaili-communities.pdf"
+   },
+   {
+    "title": "Glossary: Musta'lis/Musta'liyya",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/musta%CA%BFlis-musta%CA%BFliyya/"
+   },
+   {
+    "title": "Glossary: Bohra",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/bohra/"
+   },
+   {
+    "title": "Fatimids",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/fatimids/"
+   },
+   {
+    "title": "Fatimids (glossary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/fatimids/"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "Fatimid Art, Precursor or Culmination",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/fatimid-art-precursor-or-culmination/"
+   },
+   {
+    "title": "The Art Lovers who founded Cairo",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/in-the-media/art-lovers-who-founded-cairo"
+   },
+   {
+    "title": "The Ismailis in History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "Ismaili Community",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/ismaili-imamat/ismaili-community/"
+   }
+  ]
+ },
+ {
+  "id": "ep04",
+  "title": "Episode 4: Reason and Revelation",
+  "minutes": 21.2,
+  "audio": "audio/ep04.mp3",
+  "chapters": [
+   [
+    60.8,
+    "Welcome"
+   ],
+   [
+    125.4,
+    "Body and Soul"
+   ],
+   [
+    300.7,
+    "The Six Days"
+   ],
+   [
+    463.3,
+    "The Repose of the Intellect"
+   ],
+   [
+    771.5,
+    "The Man Who Became a Ruby"
+   ],
+   [
+    968.8,
+    "Light Upon Light"
+   ],
+   [
+    1149.0,
+    "What Stuck"
+   ]
+  ],
+  "summary": "A thousand years ago a scholar in Cairo looked at the Quran's six days of creation and pointed out that there was no sun yet — so what is a day? Yusuf and Reem spend the most abstract episode of the season chasing that habit of mind. They meet zahir and batin, the outward and inner meaning that Ismaili thought holds together like body and soul, and the practice of tawil that leads a text back to its root. They visit the Fatimid curriculum, where you learned the steps before you were told what the dance meant, and the Brethren of Purity, whose encyclopaedia put music and the soul in the same set of books and whose authorship nobody can settle. Reem says plainly that she finds one claim hard — that reason has a ceiling — and gets an honest answer rather than a tidy one. Then comes Nasir Khusraw, who lost his house, fled to a mountain valley, and wrote that he had been stone and became a ruby. The episode ends on the verse of light that gives the show its name, and on the part of that teaching the community keeps for itself.",
+  "sources": [
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Isma'ilism (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/nanji_ismailism-734160056.pdf"
+   },
+   {
+    "title": "Aspects of Ismaili Theology: The Prophetic Chain and the God Beyond Being (Wilferd Madelung)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismaili_theology_madelung-137090010.pdf"
+   },
+   {
+    "title": "Approaches to the Qur'an",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/jiwa-approaches-to-the-qur_an-websiteversion-new-feb-2006-291760261.pdf"
+   },
+   {
+    "title": "Glossary: zahir",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/%E1%BA%93ahir/"
+   },
+   {
+    "title": "Glossary: batin",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ba%E1%B9%ADin/"
+   },
+   {
+    "title": "Ismaili Jurisprudence",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-jurisprudence/"
+   },
+   {
+    "title": "Glossary: ta'wil",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ta%CA%BEwil/"
+   },
+   {
+    "title": "Glossary Terms",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/"
+   },
+   {
+    "title": "The Imamate in Ismailism (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-imamate-in-ismailism.pdf"
+   },
+   {
+    "title": "Memoirs of a Mission",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/publications-listing/memoirs-of-a-mission/"
+   },
+   {
+    "title": "Da'i",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2022/01/dai-617498726.pdf"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "Glossary: 'aql",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/%CA%BFaql/"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/the-ismaili-imamat-brief-history.pdf"
+   },
+   {
+    "title": "Brethren of Purity",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/brethren-of-purity/"
+   },
+   {
+    "title": "Hasan Sabbah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/hasan-sabbah/"
+   },
+   {
+    "title": "Nasir al-Din Tusi's Ethics: Between Philosophy, Shi'ism and Sufism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nasir-al-din-tusi/"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "Isma'ilism (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/nanji_ismailism-734160056.pdf"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   },
+   {
+    "title": "What practices do Ismailis observe in jamatkhanas?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/us/news/what-practices-do-ismailis-observe-jamatkhanas"
+   },
+   {
+    "title": "Glossary: nur/noor",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/nur-noor/"
+   },
+   {
+    "title": "How does the Ismaili Imam designate his successor?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/how-does-the-ismaili-imam-designate-his-successor"
+   },
+   {
+    "title": "Why do Ismailis seek help from Hazrat Ali and the Imams?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/news/features/why-do-ismailis-seek-help-hazrat-ali-and-the-imams"
+   },
+   {
+    "title": "The Takht-nishini of Mawlana Shah Rahim",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-takht-nishini-mawlana-shah-rahim"
+   },
+   {
+    "title": "Isma'ilism (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/nanji_ismailism-734160056.pdf"
+   },
+   {
+    "title": "Intellectual Life in Fatimid Times: A Reading Guide",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/12/revised_copy_of_intellectual_life_in_fatimid_times.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ep05",
+  "title": "Episode 5: Hidden in Plain Sight",
+  "minutes": 22.2,
+  "audio": "audio/ep05.mp3",
+  "chapters": [
+   [
+    60.4,
+    "Welcome"
+   ],
+   [
+    118.8,
+    "The Word for Staying Alive"
+   ],
+   [
+    240.0,
+    "Two Hundred Years of Not Much"
+   ],
+   [
+    421.9,
+    "The Pir of Anjudan"
+   ],
+   [
+    681.3,
+    "The Mountains That Kept the Books"
+   ],
+   [
+    880.6,
+    "The True Path"
+   ],
+   [
+    1053.4,
+    "The Songs That Carried It"
+   ],
+   [
+    1211.2,
+    "What Stuck"
+   ]
+  ],
+  "summary": "The Mongols wrecked Alamut, a court historian declared the Ismailis exterminated, and for two centuries almost nobody contradicted him. Yusuf and Reem follow what actually happened next: taqiyya and satr, and why the community's own institutions present concealment as survival under persecution rather than deceit. They sit in the gap where the record nearly disappears, meet the Imams who re-emerged at Anjudan looking to everyone outside like Sufi masters, and find that a Shia state under the Safavids made things worse rather than better. Then two places that kept the tradition alive: the mountain valleys of Badakhshan, where families copied and hid the manuscripts modern scholarship depends on, and the Indian subcontinent, where the pirs built Satpanth in local languages and the ginans carried it in song. Along the way the hosts stop three times to say plainly that the community's institutions publish nothing on a question — and why that silence is worth hearing.",
+  "sources": [
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "Alamut",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/alamut/"
+   },
+   {
+    "title": "Glossary: taqiyya",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/taqiyya/"
+   },
+   {
+    "title": "Glossary: murid",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/murid/"
+   },
+   {
+    "title": "Glossary: sitr/satr",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/sitr-satr/"
+   },
+   {
+    "title": "Satr",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/satr/"
+   },
+   {
+    "title": "Introduction to The Assassin Legends",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "The Ismailis in History (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismaili Historiography (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismaili-historiography.pdf"
+   },
+   {
+    "title": "Ismaili Communities - South Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis_south_asia-142506347.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "The Mediaeval Ismailis of the Iranian Lands",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-mediaeval-ismailis-of-the-iranian-lands/"
+   },
+   {
+    "title": "The Fatimid Legacy and the Foundation of the Modern Nizari Ismaili Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-fatimid-legacy-and-the-foundation-of-the-modern-nizari-ismaili-imamate/"
+   },
+   {
+    "title": "Ismailis",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismailis/"
+   },
+   {
+    "title": "Ismaili Historiography",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-historiography/"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "The Eagle Returns: Evidence of Continued Ismaili Activity at Alamut and in the South Caspian Region following the Mongol Conquests",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-eagle-returns-evidence-of-continued-ismaili-activity-at-alamut-and-in-the-south-caspian-region-following-the-mongol-conquests/"
+   },
+   {
+    "title": "Husayni, Shah Tahir b. Radi al-Din (d. 956 AH / 1549 CE)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/husayni-shah-tahir-b-radi-al-din-d-956-ah-1549-ce/"
+   },
+   {
+    "title": "Anjudan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/anjudan/"
+   },
+   {
+    "title": "Khayrkhah Harati: Nizari Ismaili da'i, author and poet (15th-16th CE centuries)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/khayrkhah-harati-nizari-ismaili-dai-author-and-poet-15th-16th-ce-centuries/"
+   },
+   {
+    "title": "Abu Ishaq Quhistani",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/abu-ishaq-quhistani/"
+   },
+   {
+    "title": "Khaki Khurasani",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/khaki-khurasani/"
+   },
+   {
+    "title": "Kahak",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/kahak/"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography and Beliefs (Daryoush Mohammad Poor)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2023/03/Nizari-Ismailis-from-Illinois-Geographer-Vol-65-Fall-Spring-2023-No1-2.pdf"
+   },
+   {
+    "title": "Nasir Khusraw: A Portrait of the Persian Poet, Traveller and Philosopher",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nasir-khusraw-a-portrait-of-the-persian-poet-traveller-and-philosopher/"
+   },
+   {
+    "title": "Evolution of the Shia Ismaili Tradition in Central Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/evolution-of-the-shia-ismaili-tradition-in-central-asia/"
+   },
+   {
+    "title": "Ismaili-Sufi Interactions in Badakhshan Manuscripts",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-sufi-interactions-in-badakhshan-manuscripts/"
+   },
+   {
+    "title": "Publications — Dr Hakim Elnazarov",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/our-people/dr-hakim-elnazarov/publications/"
+   },
+   {
+    "title": "Know Your Qasidas",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/product/know-your-qasidas/"
+   },
+   {
+    "title": "The different forms of devotional expression in the Ismaili Tariqah",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-different-forms-devotional-expression-the-ismaili-tariqah"
+   },
+   {
+    "title": "Ismaili Communities: South Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-communities-south-asia/"
+   },
+   {
+    "title": "Religious Traditions and Early Ismaili History in South Asia: Some Historical Perspectives on Satpanthi Literature and the Ginans (Samira Sheikh)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/religious-traditions-and-early-ismaili-history-in-south-asia-some-historical-perspectives-on-satpanthi-literature-and-the-ginans/"
+   },
+   {
+    "title": "Glossary: pir",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/pir/"
+   },
+   {
+    "title": "Khojas (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/khojas/"
+   },
+   {
+    "title": "Glossary: Khojas",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/khojas/"
+   },
+   {
+    "title": "Religious Traditions and Early Ismaili History in South Asia (PDF)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/early-ismaili-history-130555084.pdf"
+   },
+   {
+    "title": "Ginans (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ginans/"
+   },
+   {
+    "title": "Glossary: ginan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ginan/"
+   },
+   {
+    "title": "Glossary: Khojki",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/khojki/"
+   },
+   {
+    "title": "Women Who Have Impacted Ismaili History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/women-in-ismaili-history/"
+   },
+   {
+    "title": "What practices do Ismailis observe in jamatkhanas?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-practices-do-ismailis-observe-jamatkhanas"
+   },
+   {
+    "title": "Kahak",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/kahak/"
+   },
+   {
+    "title": "Modern Ismaili Communities",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/modern-ismaili-communities/"
+   },
+   {
+    "title": "Mawlana Hasan Ali Shah, our 46th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-hasan-ali-shah-our-46th-imam"
+   }
+  ]
+ },
+ {
+  "id": "ep06",
+  "title": "Episode 6: From Persia to Bombay",
+  "minutes": 21.5,
+  "audio": "audio/ep06.mp3",
+  "chapters": [
+   [
+    62.5,
+    "Welcome"
+   ],
+   [
+    125.1,
+    "A Title from the Shah"
+   ],
+   [
+    284.8,
+    "The Road to Bombay"
+   ],
+   [
+    575.0,
+    "Seven Years Old"
+   ],
+   [
+    759.6,
+    "Daughters First"
+   ],
+   [
+    949.4,
+    "The Scales and the Will"
+   ]
+  ],
+  "summary": "The hiding stops. Yusuf and Reem follow the Ismaili Imams out of the Iranian villages and onto a much larger stage: a title handed over by a Persian king, a thirteen-year-old governor, an armed confrontation and a departure that ended seven centuries of the Imamat living in Persia. In Bombay the Imam finally has a fixed address, the Khoja merchant families of Gujarat and Kutch can reach him, and a dispute over communal property lands in the Bombay High Court in eighteen sixty-six — a case the hosts are careful to say we only know the outcome of. Then Aga Khan III: Imam at seven, seventy-two years in office, written constitutions from nineteen oh five, the presidency of the League of Nations Assembly, hundreds of schools, and the guidance that if a family could educate only one child it should be the daughter. It ends on the weighing ceremonies, what the jubilee gold actually built, and the will of nineteen fifty-seven that skipped a generation to a twenty-year-old student at Harvard.",
+  "sources": [
+   {
+    "title": "Kahak",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/kahak/"
+   },
+   {
+    "title": "The Fatimid Legacy and the Foundation of the Modern Nizari Ismaili Imamate",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-fatimid-legacy-and-the-foundation-of-the-modern-nizari-ismaili-imamate/"
+   },
+   {
+    "title": "Mawlana Hasan Ali Shah, our 46th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-hasan-ali-shah-our-46th-imam"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "Glossary: Aga Khan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/aga-khan/"
+   },
+   {
+    "title": "Mawlana Shah Karim: Our Beloved 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-beloved-49th-imam"
+   },
+   {
+    "title": "Stories of the Ismaili Imams",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/stories-of-the-ismaili-imams"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "Kahak",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/kahak/"
+   },
+   {
+    "title": "Mawlana Hasan Ali Shah, our 46th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-hasan-ali-shah-our-46th-imam"
+   },
+   {
+    "title": "The Ismaili Imamat: a brief history",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-imamat-brief-history/"
+   },
+   {
+    "title": "Khojas",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/khojas/"
+   },
+   {
+    "title": "Ismaili Communities: South Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ismaili-communities-south-asia/"
+   },
+   {
+    "title": "Modern Ismaili Communities",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/modern-ismaili-communities/"
+   },
+   {
+    "title": "Mawlana Aga Ali Shah, our 47th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-aga-ali-shah-our-47th-imam"
+   },
+   {
+    "title": "Aga Khan III: A Statesman and a Champion for Education and Social Reform",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/aga-khan-iii-a-statesman-and-a-champion-for-education-and-social-reform"
+   },
+   {
+    "title": "Mawlana Sultan Mahomed Shah, our 48th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-sultan-mahomed-shah-our-48th-imam"
+   },
+   {
+    "title": "Aga Khan III: A Statesman and a Champion for Education and Social Reform",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/aga-khan-iii-a-statesman-and-a-champion-for-education-and-social-reform"
+   },
+   {
+    "title": "Aga Khan III: A Study in Humanism",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://iis.ac.uk/aga-khan-iii-study-humanism"
+   },
+   {
+    "title": "The Shia Ismaili Muslims (background paper)",
+    "publisher": "The Ismaili",
+    "url": "https://cms.the.ismaili/sites/ismaili/files/background_on_the_ismaili_muslim_community.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "The Takht-nishini of Mawlana Shah Rahim",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-takht-nishini-mawlana-shah-rahim"
+   },
+   {
+    "title": "How does the Ismaili Imam designate his successor?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/how-does-the-ismaili-imam-designate-his-successor"
+   },
+   {
+    "title": "Empowering women: A legacy of the Ismaili Imamat",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/empowering-women-legacy-the-ismaili-imamat"
+   },
+   {
+    "title": "A Golden Prince of History: Imam Sultan Mahomed Shah and his Contributions to Pakistan",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/golden-prince-history-imam-sultan-mahomed-shah-and-his"
+   },
+   {
+    "title": "Mawlana Sultan Mahomed Shah, our 48th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-sultan-mahomed-shah-our-48th-imam"
+   },
+   {
+    "title": "Women Who Have Impacted Ismaili History",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/women-in-ismaili-history/"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "The Jubilees",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "Mawlana Sultan Mahomed Shah, our 48th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-sultan-mahomed-shah-our-48th-imam"
+   },
+   {
+    "title": "Mawlana Shah Karim: Our Beloved 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-beloved-49th-imam"
+   },
+   {
+    "title": "How does the Ismaili Imam designate his successor?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/how-does-the-ismaili-imam-designate-his-successor"
+   },
+   {
+    "title": "Frequently Asked Questions",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/frequently-asked-questions-transition"
+   },
+   {
+    "title": "Our Founder",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are/our-founder"
+   }
+  ]
+ },
+ {
+  "id": "ep07",
+  "title": "Episode 7: The Development Imam",
+  "minutes": 22.9,
+  "audio": "audio/ep07.mp3",
+  "chapters": [
+   [
+    59.9,
+    "Welcome"
+   ],
+   [
+    124.2,
+    "The Student and the Will"
+   ],
+   [
+    272.9,
+    "Ninety Days"
+   ],
+   [
+    464.3,
+    "What the Network Actually Does"
+   ],
+   [
+    651.7,
+    "Buildings That Say Something"
+   ],
+   [
+    827.4,
+    "A Palace in Lisbon"
+   ],
+   [
+    941.0,
+    "February, and What Came After"
+   ]
+  ],
+  "summary": "A twenty-year-old student at Harvard becomes the 49th Ismaili Imam, and leads the community for sixty-seven years. Yusuf and Reem follow Aga Khan IV from his grandfather's will in 1957 to the expulsion of Uganda's Asian population in 1972 and the resettlement in Canada — being honest that the community's own institutions publish almost nothing about those weeks — then ask what the Aga Khan Development Network actually does, and why a spiritual office runs universities, hospitals and companies at all. They visit the architecture prize that pays the builders as well as the architect, the Aga Khan Museum in Toronto and the seven Ismaili Centres, and work out how a palace in Lisbon became the first formal Seat of the Imamat in its modern history. The episode closes with February 2025 — the death in Lisbon, the funeral, the burial at Aswan, the reading of the will and the Takht-nishini of Aga Khan V — and with the new Imam returning to Uganda to open a university campus.",
+  "sources": [
+   {
+    "title": "Mawlana Shah Karim: Our Beloved 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-beloved-49th-imam"
+   },
+   {
+    "title": "How does the Ismaili Imam designate his successor?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/how-does-the-ismaili-imam-designate-his-successor"
+   },
+   {
+    "title": "Mawlana Shah Karim, our 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-49th-imam"
+   },
+   {
+    "title": "Our Founder",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are/our-founder"
+   },
+   {
+    "title": "Our Founder",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/our-institution/our-founder/"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "Ismaili Imamat",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/about/ismaili-imamat"
+   },
+   {
+    "title": "Authority without Territory",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/authority-without-territory/"
+   },
+   {
+    "title": "His Highness Prince Karim Aga Khan IV, 1936-2025",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/spotlights/his-highness-prince-karim-aga-khan-iv-19362025"
+   },
+   {
+    "title": "Glossary: Aga Khan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/aga-khan/"
+   },
+   {
+    "title": "Glossary: His Highness Prince Karim Aga Khan IV",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/his-highness-prince-karim-aga-khan-iv/"
+   },
+   {
+    "title": "Why pluralism is more important than ever",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/our-stories/why-pluralism-is-more-important-than-ever"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography, and Beliefs",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/nizari-ismailis-history-geography-and-beliefs/"
+   },
+   {
+    "title": "Tanzania",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/where-we-work/east-africa/tanzania"
+   },
+   {
+    "title": "Kenya",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/where-we-work/east-africa/kenya"
+   },
+   {
+    "title": "Canada",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/where-we-work/north-america/canada"
+   },
+   {
+    "title": "Delegation of the Ismaili Imamat",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/where-we-work/north-america/canada/delegation-of-the-ismaili-imamat"
+   },
+   {
+    "title": "Who We Are",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are"
+   },
+   {
+    "title": "Aga Khan Fund for Economic Development",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/what-we-do/aga-khan-fund-economic-development"
+   },
+   {
+    "title": "Aga Khan University",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/what-we-do/aga-khan-university"
+   },
+   {
+    "title": "University of Central Asia",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/what-we-do/university-central-asia"
+   },
+   {
+    "title": "About us",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/about-us/"
+   },
+   {
+    "title": "Glossary: Aga Khan Development Network",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/aga-khan-development-network/"
+   },
+   {
+    "title": "His Highness Prince Rahim Aga Khan V",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/who-we-are/our-chair"
+   },
+   {
+    "title": "Aga Khan Award for Architecture",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/aga-khan-award-for-architecture"
+   },
+   {
+    "title": "Aga Khan Trust for Culture",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/what-we-do/aga-khan-trust-culture"
+   },
+   {
+    "title": "Aga Khan Historic Cities Programme",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/what-we-do/aga-khan-historic-cities-programme"
+   },
+   {
+    "title": "About the Aga Khan Museum",
+    "publisher": "Aga Khan Museum",
+    "url": "https://agakhanmuseum.org/about/"
+   },
+   {
+    "title": "Location and Site",
+    "publisher": "Aga Khan Museum",
+    "url": "https://agakhanmuseum.org/aga-khan-museum-site/"
+   },
+   {
+    "title": "Ismaili Centre, Toronto",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/spaces/ismaili-centre-toronto"
+   },
+   {
+    "title": "What are Ismaili Centres?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-are-ismaili-centres"
+   },
+   {
+    "title": "Ismaili Jamatkhanas, Congregational Practice and Privacy",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/jamatkhanas-congregational-practice-and-privacy-0"
+   },
+   {
+    "title": "What are jamatkhanas?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-are-jamatkhanas"
+   },
+   {
+    "title": "Ismaili Center, Houston",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/spaces/ismaili-center-houston"
+   },
+   {
+    "title": "His Highness the Aga Khan and Houston Mayor John Whitmire open Ismaili Center, Houston",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/news-release/his-highness-the-aga-khan-and-houston-mayor-john-whitmire-open-ismaili-center"
+   },
+   {
+    "title": "Portugal",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/where-we-work/europe/portugal"
+   },
+   {
+    "title": "Ismaili Centre, Lisbon",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/spaces/ismaili-centre-lisbon"
+   },
+   {
+    "title": "Seat of the Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "Mawlana Hazar Imam accepts pledges of allegiance from Global Jamat",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-hazar-imam-accepts-pledges-allegiance-global-jamat"
+   },
+   {
+    "title": "Mawlana Shah Karim Al-Hussaini, 1936-2025",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-al-hussaini-1936-2025"
+   },
+   {
+    "title": "What to expect in the next few days",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-expect-the-next-few-days"
+   },
+   {
+    "title": "50th Imam Declared: Mawlana Hazar Imam Shah Rahim al-Hussaini Aga Khan V",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/50th-imam-declared-mawlana-hazar-imam-shah-rahim-al-hussaini-aga-khan"
+   },
+   {
+    "title": "Frequently Asked Questions",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/frequently-asked-questions-transition"
+   },
+   {
+    "title": "Details of upcoming historic ceremonies",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/details-upcoming-historic-ceremonies"
+   },
+   {
+    "title": "Mawlana Shah Karim's funeral held in Lisbon",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karims-funeral-held-lisbon"
+   },
+   {
+    "title": "Mawlana Shah Karim laid to rest",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-laid-rest"
+   },
+   {
+    "title": "Aswan, Egypt",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/aswan-egypt"
+   },
+   {
+    "title": "The Takht-nishini of Mawlana Shah Rahim",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-takht-nishini-mawlana-shah-rahim"
+   },
+   {
+    "title": "The Homage Ceremony of Mawlana Shah Rahim al-Hussaini Hazar Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-homage-ceremony-mawlana-shah-rahim-al-hussaini-hazar-imam"
+   },
+   {
+    "title": "His Highness the Aga Khan",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/about/his-highness-the-aga-khan"
+   },
+   {
+    "title": "Imamat Day",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/imamat-day"
+   },
+   {
+    "title": "Salgirah",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/salgirah"
+   }
+  ]
+ },
+ {
+  "id": "ep08",
+  "title": "Episode 8: A Day in the Life",
+  "minutes": 22.7,
+  "audio": "audio/ep08.mp3",
+  "chapters": [
+   [
+    52.9,
+    "Welcome"
+   ],
+   [
+    136.8,
+    "The House of the Community"
+   ],
+   [
+    327.0,
+    "The Line at the Door"
+   ],
+   [
+    534.0,
+    "What It Sounds Like"
+   ],
+   [
+    777.1,
+    "The Shape of the Year"
+   ],
+   [
+    1086.1,
+    "Work No Words"
+   ]
+  ],
+  "summary": "After seven episodes of caliphs, castles and development banks, Yusuf and Reem come down to the ordinary week. What a Jamatkhana actually is — the house of the community, a word the Ismailis share with Sunni Memons, Shia Bohras and Chishti Sufis — and how the whole family of Muslim gathering spaces grows out of a courtyard beside the Prophet's house in Medina. Who may go in, and why the formal congregational prayers are reserved for those who have pledged bayah, explained in the community's own words rather than ours. The forms of prayer and the devotional poetry, from the ginans of South Asia to the Persian qasida and Central Asian maddah-khani. The festival year, from Navroz to Laylat al-Qadr to the Imam's Salgirah. Didar, and the visit to Tajikistan that a family in Khorog wrote into a child's name. And the volunteers who run nearly all of it, under a motto the Imam gave them in nineteen twenty-four: \"Work No Words\". This is also the episode where the hosts keep stopping: the text of the Dua, the order of the ceremony, Baitul Khayal, Chiragh-i Rawshan, nandi and mehmani, and even the etiquette a guest might want are not published by the community's own institutions, and the show says so and leaves them alone.",
+  "sources": [
+   {
+    "title": "His Highness Prince Karim Aga Khan IV, 1936-2025",
+    "publisher": "Aga Khan Development Network",
+    "url": "https://the.akdn/en/resources-media/whats-new/spotlights/his-highness-prince-karim-aga-khan-iv-19362025"
+   },
+   {
+    "title": "Mawlana Shah Karim, our 49th Imam",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karim-our-49th-imam"
+   },
+   {
+    "title": "Mawlana Shah Karim's funeral held in Lisbon",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/mawlana-shah-karims-funeral-held-lisbon"
+   },
+   {
+    "title": "50th Imam Declared: Mawlana Hazar Imam Shah Rahim al-Hussaini Aga Khan V",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/50th-imam-declared-mawlana-hazar-imam-shah-rahim-al-hussaini-aga-khan"
+   },
+   {
+    "title": "Why are prayers in jamatkhana only for Ismailis?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/why-are-prayers-jamatkhana-only-ismailis"
+   },
+   {
+    "title": "What are jamatkhanas?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-are-jamatkhanas"
+   },
+   {
+    "title": "Glossary: Jama'at Khana",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/jamaat-khana/"
+   },
+   {
+    "title": "Muslim Spaces of Piety and Worship (Karim Jiwani)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/muslim-spaces-of-piety-and-worship/"
+   },
+   {
+    "title": "Situating Jamatkhanas within Diverse Muslim Spaces of Gathering and Piety",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/situating-jamatkhanas-within-diverse-muslim-spaces-gathering-and-piety"
+   },
+   {
+    "title": "The History of Jamatkhanas and Their Significance",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/history-jamatkhanas-and-their-significance"
+   },
+   {
+    "title": "Ismaili Jamatkhanas, Congregational Practice and Privacy",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/jamatkhanas-congregational-practice-and-privacy-0"
+   },
+   {
+    "title": "Town Jamatkhana, Nairobi (Sites and Stories)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/sites-town-jamatkhana-nairobi/"
+   },
+   {
+    "title": "Experiences of the Jamatkhana",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/publications-listing/experiences-of-the-jamatkhana/"
+   },
+   {
+    "title": "The Grace and Blessings of Jamatkhanas in our Lives",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-grace-and-blessings-jamatkhanas-our-lives"
+   },
+   {
+    "title": "Eid al-Fitr",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/eid-al-fitr"
+   },
+   {
+    "title": "Why are prayers in jamatkhana only for Ismailis?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/why-are-prayers-jamatkhana-only-ismailis"
+   },
+   {
+    "title": "Glossary: bay'a",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/bay%CA%BFa/"
+   },
+   {
+    "title": "Ismaili Jamatkhanas, Congregational Practice and Privacy",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/jamatkhanas-congregational-practice-and-privacy-0"
+   },
+   {
+    "title": "The Ambassadorial Role of the Ismaili Centres",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/ambassadorial-role-centres-0"
+   },
+   {
+    "title": "What are Ismaili Centres?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-are-ismaili-centres"
+   },
+   {
+    "title": "Salgirah 2023 - Message from Jamati Mukhisaheb",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/salgirah-2023-message-jamati-mukhisaheb"
+   },
+   {
+    "title": "What practices do Ismailis observe in jamatkhanas?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-practices-do-ismailis-observe-jamatkhanas"
+   },
+   {
+    "title": "Glossary: salat (pl. salawat)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/%E1%B9%A3alat-pl-%E1%B9%A3alawat/"
+   },
+   {
+    "title": "Glossary: dhikr",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/dhikr/"
+   },
+   {
+    "title": "Losing and Finding Ourselves in Dhikr",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/losing-and-finding-ourselves-dhikr-0"
+   },
+   {
+    "title": "Ginans",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/ginans/"
+   },
+   {
+    "title": "Glossary: ginan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ginan/"
+   },
+   {
+    "title": "Glossary: Khojki",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/khojki/"
+   },
+   {
+    "title": "Glossary: qasida",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/qasida/"
+   },
+   {
+    "title": "The different forms of devotional expression in the Ismaili Tariqah",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-different-forms-devotional-expression-the-ismaili-tariqah"
+   },
+   {
+    "title": "Ismaili-Sufi Interactions in Badakhshan Manuscripts",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/multimedia/ismaili-sufi-interactions-in-badakhshan-manuscripts/"
+   },
+   {
+    "title": "Glossary: Farman",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/farman/"
+   },
+   {
+    "title": "Publications - Dr Hakim Elnazarov",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/our-people/dr-hakim-elnazarov/publications/"
+   },
+   {
+    "title": "Glossary: The Ismaili Tariqah and Religious Education Boards (ITREBs)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/the-ismaili-tariqah-and-religious-education-boards-itrebs/"
+   },
+   {
+    "title": "Festivals",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/festivals"
+   },
+   {
+    "title": "Navroz",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/navroz"
+   },
+   {
+    "title": "Nawruz - a symbol of renewal, rejuvenation and new beginnings",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/nawruz-symbol-renewal-rejuvenation-and-new-beginnings"
+   },
+   {
+    "title": "What is the purpose of fasting in Ramadan?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-the-purpose-fasting-ramadan"
+   },
+   {
+    "title": "Ramadan",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/ramadan"
+   },
+   {
+    "title": "Laylat al-Qadr",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/laylat-al-qadr"
+   },
+   {
+    "title": "Imamat Day",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/imamat-day"
+   },
+   {
+    "title": "Salgirah",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/salgirah"
+   },
+   {
+    "title": "Crescent Moon",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/crescent-moon"
+   },
+   {
+    "title": "On the occasion of Shukarvari Beej",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/the-occasion-shukarvari-beej"
+   },
+   {
+    "title": "What is Didar?",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/what-is-didar"
+   },
+   {
+    "title": "Reflecting on Roz-e-Nur",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/reflecting-roz-e-nur"
+   },
+   {
+    "title": "Journey to the Mulaqat",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/journey-mulaqat"
+   },
+   {
+    "title": "Ismaili Volunteers",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/service/ismaili-volunteers"
+   },
+   {
+    "title": "Commemorating 100 Years of the Ismaili Volunteer Corps (IVC)",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/commemorating-100-years-the-ismaili-volunteer-corps-ivc"
+   },
+   {
+    "title": "Women's Voices in the IIS Oral History Project",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/news/2024/march/oral-history-project-women-s-voices/"
+   },
+   {
+    "title": "Meet the Institutions - Ismaili Tariqah and Religious Education Board",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/meet-the-institutions-ismaili-tariqah-and-religious-education-board"
+   },
+   {
+    "title": "Baitul Ilm",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/baitul-ilm"
+   },
+   {
+    "title": "Ta'lim Curriculum",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/talim-curriculum/"
+   },
+   {
+    "title": "Ismaili CIVIC",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/service/ismaili-civic"
+   },
+   {
+    "title": "Global Ismaili CIVIC Day",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/global/service/civic/global-ismaili-civic-day"
+   }
+  ]
+ },
+ {
+  "id": "ep09",
+  "title": "Episode 9: Among the Muslims",
+  "minutes": 22.9,
+  "audio": "audio/ep09.mp3",
+  "chapters": [
+   [
+    64.0,
+    "Welcome"
+   ],
+   [
+    148.8,
+    "The Ground Underneath"
+   ],
+   [
+    243.9,
+    "Where the Road Forked"
+   ],
+   [
+    446.1,
+    "The Rest of the Family"
+   ],
+   [
+    700.0,
+    "Living Next Door"
+   ],
+   [
+    910.7,
+    "The Legend and the Lost Library"
+   ],
+   [
+    1157.9,
+    "Recognised"
+   ]
+  ],
+  "summary": "The season finale steps outside the community and looks at the neighbours. Yusuf and Reem start with the enormous shared ground — one God, the Prophet, the Quran — before following the fork at Ghadir Khumm and the second fork after Imam Jafar al-Sadiq that separated Ismailis from Twelver Shias. They walk the rest of the family tree, the Mustali Tayyibis and the Bohras, the Druze and the Imam-Shahis, and they are blunt throughout that every source here is an Ismaili institution describing other communities rather than those communities speaking for themselves. Then come a thousand years of living alongside Sunni Muslims, in both directions: the Abbasid campaigns and the Seljuq massacres, but also Fatimid religious plurality and the Imam at Alamut who won recognition from the caliph in Baghdad. The episode closes with Daftary's 'black legend', the Baghdad declaration of 1011, the manuscripts that came out of hiding in the twentieth century — many of them preserved by the Bohras — the Amman consensus on the eight schools, and a warm look back across the season.",
+  "sources": [
+   {
+    "title": "al-Hakim bi-Amr Allah (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "The Shia Ismaili Muslims (background on the Ismaili Muslim community) (The Ismaili",
+    "publisher": "official community website)",
+    "url": "https://cms.the.ismaili/sites/ismaili/files/background_on_the_ismaili_muslim_community.pdf"
+   },
+   {
+    "title": "Shia and Sunni: Understanding different Muslim interpretations",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/news/shia-and-sunni-understanding-different-muslim-interpretations"
+   },
+   {
+    "title": "Glossary: al-shahada",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/al-shahada/"
+   },
+   {
+    "title": "Glossary: tawhid",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/taw%E1%B8%A5id/"
+   },
+   {
+    "title": "Glossary: Qur'an",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/quran/"
+   },
+   {
+    "title": "Glossary: ta'wil",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ta%CA%BEwil/"
+   },
+   {
+    "title": "The Imamate in Ismailism by Azim Nanji",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/the-imamate-in-ismailism/"
+   },
+   {
+    "title": "Diversity in Islam: Communities of Interpretation by Farhad Daftary",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/diversity-in-islam-communities-of-interpretation/"
+   },
+   {
+    "title": "What is Shi'a Islam? by Farhad Daftary and Azim Nanji",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/scholarly-contributions/what-is-shia-islam/"
+   },
+   {
+    "title": "Glossary: Ghadir Khumm",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ghadir-khumm/"
+   },
+   {
+    "title": "Glossary: Shi'a/Shi'ite",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/shia-shiite/"
+   },
+   {
+    "title": "Glossary: Ithna'asharis",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/ithnaasharis/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography and Beliefs (Daryoush Mohammad Poor)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2023/03/Nizari-Ismailis-from-Illinois-Geographer-Vol-65-Fall-Spring-2023-No1-2.pdf"
+   },
+   {
+    "title": "Glossary: taqiyya",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/taqiyya/"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "Modern Ismaili Communities",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/modern-ismaili-communities.pdf"
+   },
+   {
+    "title": "The Ismailis in History (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismaili Historiography (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismaili-historiography.pdf"
+   },
+   {
+    "title": "Fatimids (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/fatimids-daftary-ei-v-ix-p-423-1004325654.pdf"
+   },
+   {
+    "title": "Ismaili Communities - South Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis_south_asia-142506347.pdf"
+   },
+   {
+    "title": "Da'i (Encyclopaedia article)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2022/01/dai-617498726.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "The Druzes, from Ismaili Esotericism to the Formation of a Doctrinal School of Law",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://iis.ac.uk/learning-centre/multimedia/the-druzes-from-ismaili-esotericism-to-the-formation-of-a-doctrinal-school-of-law"
+   },
+   {
+    "title": "Religious Traditions and Early Ismaili History in South Asia",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/early-ismaili-history-130555084.pdf"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "The Ismailis in History (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "Ismailis (Medieval Islamic Civilization: An Encyclopedia)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismailis-mic-daftary-2006-logo-772484555.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "Introduction to The Assassin Legends",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "Nizari Ismailis: History, Geography and Beliefs (Daryoush Mohammad Poor)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2023/03/Nizari-Ismailis-from-Illinois-Geographer-Vol-65-Fall-Spring-2023-No1-2.pdf"
+   },
+   {
+    "title": "Ismaili Studies: A Summary Review (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/daftary_ismaili_studies_review-193283396-1.pdf"
+   },
+   {
+    "title": "Introduction to The Assassin Legends",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/assassin_legends-29143628.pdf"
+   },
+   {
+    "title": "Da'i (Encyclopaedia article)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2022/01/dai-617498726.pdf"
+   },
+   {
+    "title": "al-Hakim bi-Amr Allah (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/al-hakim-bi-amr-allah.pdf"
+   },
+   {
+    "title": "Ismaili Historiography (Farhad Daftary)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/ismaili-historiography.pdf"
+   },
+   {
+    "title": "The Ismailis in History (Azim Nanji)",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/the-ismailis-in-history.pdf"
+   },
+   {
+    "title": "The International Islamic Conference, Amman, Jordan",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/news/2006/september/the-international-islamic-conference-amman-jordan/"
+   },
+   {
+    "title": "The Shia Ismaili Muslims (background on the Ismaili Muslim community) (The Ismaili",
+    "publisher": "official community website)",
+    "url": "https://cms.the.ismaili/sites/ismaili/files/background_on_the_ismaili_muslim_community.pdf"
+   },
+   {
+    "title": "What is Shi'a Islam?",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/wp-content/uploads/2024/10/whatis-shia-islam.pdf"
+   },
+   {
+    "title": "Glossary: tariqa/tariqat/tariqah",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/glossary/%E1%B9%ADariqa-%E1%B9%ADariqat-%E1%B9%ADariqah/"
+   },
+   {
+    "title": "Publications",
+    "publisher": "The Institute of Ismaili Studies",
+    "url": "https://www.iis.ac.uk/publications-listing/"
+   },
+   {
+    "title": "What Ismailis Believe",
+    "publisher": "The Ismaili",
+    "url": "https://the.ismaili/what-ismailis-believe"
+   },
+   {
+    "title": "The Ismaili Imamat",
+    "publisher": "The Ismaili Imamat",
+    "url": "https://ismaili.imamat/"
+   }
+  ]
+ }
+]
