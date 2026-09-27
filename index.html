@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ismaili Guide</title>
+<meta name="description" content="Learn about the Ismaili Muslim community, its history, beliefs and practice. Every answer comes with its sources.">
+<meta name="theme-color" content="#10231c" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#174d3c" media="(prefers-color-scheme: light)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ismaili Guide">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <div class="brand"><img src="icon-192.png" alt="" width="28" height="28"><span>Ismaili Guide</span></div>
+    <nav class="tabs" id="tabs">
+      <button data-tab="ask" class="on">Ask</button>
+      <button data-tab="learn">Learn</button>
+      <button data-tab="listen">Listen</button>
+      <button data-tab="glossary">Glossary</button>
+      <button data-tab="about">About</button>
+    </nav>
+  </header>
+
+  <!-- ------------------------------------------------------------ ASK -->
+  <section class="screen on" id="screen-ask">
+    <div class="chat" id="chat" aria-live="polite"></div>
+    <form class="composer" id="composer" autocomplete="off">
+      <button type="button" class="icon-btn" id="btn-mic" title="Speak your question" aria-label="Speak your question" hidden>
+        <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3Zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2Z"/></svg>
+      </button>
+      <input id="q" type="text" placeholder="Ask anything about Ismailis…" enterkeyhint="send" aria-label="Your question">
+      <button type="submit" class="send" aria-label="Send">
+        <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3 20.5 21 12 3 3.5 3 10l12 2-12 2z"/></svg>
+      </button>
+    </form>
+  </section>
+
+  <!-- ---------------------------------------------------------- LEARN -->
+  <section class="screen" id="screen-learn">
+    <div class="learn-wrap">
+      <aside class="toc" id="toc"></aside>
+      <article class="reader" id="reader"></article>
+    </div>
+  </section>
+
+  <!-- --------------------------------------------------------- LISTEN -->
+  <section class="screen" id="screen-listen">
+    <div class="page" id="listen"></div>
+  </section>
+
+  <!-- ------------------------------------------------------- GLOSSARY -->
+  <section class="screen" id="screen-glossary">
+    <div class="page">
+      <input id="gl-filter" class="filter" type="search" placeholder="Filter terms…" aria-label="Filter glossary">
+      <div id="gl-list"></div>
+    </div>
+  </section>
+
+  <!-- ---------------------------------------------------------- ABOUT -->
+  <section class="screen" id="screen-about">
+    <div class="page prose" id="about"></div>
+  </section>
+
+  <div class="banner" id="banner" hidden><span id="banner-text"></span><button id="banner-btn"></button></div>
+</div>
+<script src="engine.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

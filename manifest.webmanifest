@@ -1,0 +1,16 @@
+{
+  "name": "Ismaili Guide",
+  "short_name": "Ismaili Guide",
+  "description": "Learn about the Ismaili Muslim community: history, beliefs and practice, with every answer sourced.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#174d3c",
+  "theme_color": "#174d3c",
+  "categories": ["education", "books"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
